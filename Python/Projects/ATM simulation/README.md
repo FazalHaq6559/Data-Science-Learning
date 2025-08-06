@@ -17,15 +17,14 @@ This is a simple command-line ATM simulation built using Python. It allows users
 
 ## 📁 Data Storage
 User data is saved in a JSON file like this:
-'''
+---
 {
   "1234": {
     "balance": 5000
   }
 }
-'''
 
 ## ✅ Perfect For
 -Beginners learning Python
 -Practice with file handling, loops, and conditionals
-
+---
