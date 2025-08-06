@@ -45,3 +45,24 @@ Data-Science-Learning/
 - Descriptive & inferential statistics
 - Measures of central tendency and dispersion
 - Correlation, distributions, and visualizations
+
+
+## 🛠️ Tools & Technologies
+
+- Python 3.x
+- Jupyter Notebooks / Google Colab
+- NumPy, Pandas, Matplotlib, Seaborn
+- Scikit-learn (ML)
+- Git & GitHub for version control
+
+---
+
+## 🚀 How to Use This Repository
+
+1. **Browse folders** based on topics (Python, Statistics, etc.)
+2. Explore **assignments** for concept practice and exercises
+3. Review **projects** for practical implementations
+4. Clone the repo and try out the code on your machine
+
+```bash
+git clone https://github.com/FazalHaq6559/Data-Science-Learning.git
