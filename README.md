@@ -27,10 +27,6 @@ Data-Science-Learning/
 │   ├── Assignments/
 │   ├── Projects/
 │
-├── Machine-Learning/
-│   ├── Notebooks/
-│   └── Mini-Projects/
-│
 └── README.md
 ```
 
@@ -59,7 +55,7 @@ Data-Science-Learning/
 
 ## 🙌 Acknowledgements
 
-I'm currently learning Data Science with [**DSGuru**](https://dsguru.ai) — an excellent platform for guided, structured, and hands-on learning.
+I'm currently learning Data Science with [**DSGuru**](https://www.linkedin.com/company/dsguru/posts/) — an excellent platform for guided, structured, and hands-on learning.
 
 This repo is built with the support of open-source materials, instructors, and real-world practice challenges.
 
@@ -73,7 +69,6 @@ Feel free to:
 - 🍴 Fork it and build upon it  
 - 🧠 Use it as a reference for your own learning
 
-> “Learning never exhausts the mind.” – *Leonardo da Vinci*
 
 
 ---
