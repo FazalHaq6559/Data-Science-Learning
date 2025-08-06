@@ -14,7 +14,6 @@ This is a simple command-line ATM simulation built using Python. It allows users
 - Store user data in a `users.json` file
 
 ---
-
 ## 📁 Data Storage
 User data is saved in a JSON file like this:
 ---
@@ -23,7 +22,8 @@ User data is saved in a JSON file like this:
     "balance": 5000
   }
 }
-
+---
+---
 ## ✅ Perfect For
 -Beginners learning Python
 -Practice with file handling, loops, and conditionals
