@@ -33,3 +33,15 @@ Data-Science-Learning/
 │
 └── README.md
 ```
+
+## 📌 Learning Tracks
+
+### 🔹 Python Programming
+- Core programming concepts
+- Problem-solving with daily assignments
+- Mini projects like ATM Simulator, Contact Book, ToDo App, etc.
+
+### 🔹 Statistics
+- Descriptive & inferential statistics
+- Measures of central tendency and dispersion
+- Correlation, distributions, and visualizations
