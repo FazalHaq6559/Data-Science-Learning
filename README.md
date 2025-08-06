@@ -7,19 +7,5 @@ This repository is my personal notebook, project hub, and portfolio as I explore
 ---
 
 ## 📂 Repository Structure
+<pre lang="markdown"> ``` Data-Science-Learning/ │ ├── Python/ │ ├── Assignments/ │ │ ├── Day01/ │ │ ├── Day02/ │ │ └── ... Day13/ │ └── Projects/ │ ├── ATM-Simulator/ │ ├── Contact-Book/ │ ├── Marks-Manager/ │ ├── Data-Analyzer/ │ └── ToDo-App/ │ ├── Statistics/ │ ├── Assignments/ │ └── Projects/ │ ├── Machine-Learning/ │ ├── Notebooks/ │ └── Mini-Projects/ │ └── README.md ``` </pre>
 
-Data-Science-Learning/
-│
-├── Python/
-│ ├── Assignments/ # Day-wise Python practice (Day 1 to 13)
-│ └── Projects/ # 5 mini Python projects
-│
-├── Statistics/
-│ ├── Assignments/ # Statistical concepts and exercises
-│ └── Projects/ # Practical data/statistics projects
-│
-├── Machine-Learning/
-│ ├── Notebooks/ # ML model notebooks (coming soon)
-│ └── Mini-Projects/ # Mini ML projects (coming soon)
-│
-└── README.md # This file
