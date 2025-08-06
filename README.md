@@ -20,12 +20,12 @@ Data-Science-Learning/
 │       ├── ATM-Simulator/
 │       ├── Contact-Book/
 │       ├── Marks-Manager/
-│       ├── Data-Analyzer/
-│       └── ToDo-App/
+│       ├── File-organizer/
+│       └── Finance-management/
 │
 ├── Statistics/
 │   ├── Assignments/
-│   └── Projects/
+│   ├── Projects/
 │
 ├── Machine-Learning/
 │   ├── Notebooks/
@@ -47,13 +47,7 @@ Data-Science-Learning/
 - Correlation, distributions, and visualizations
 
 
-## 🛠️ Tools & Technologies
 
-- Python 3.x
-- Jupyter Notebooks / Google Colab
-- NumPy, Pandas, Matplotlib, Seaborn
-- Scikit-learn (ML)
-- Git & GitHub for version control
 
 ---
 
