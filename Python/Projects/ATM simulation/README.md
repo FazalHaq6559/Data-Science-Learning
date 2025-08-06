@@ -25,6 +25,6 @@ User data is saved in a JSON file like this:
 ---
 ---
 ## ✅ Perfect For
--Beginners learning Python
--Practice with file handling, loops, and conditionals
+- Beginners learning Python
+- Practice with file handling, loops, and conditionals
 ---
