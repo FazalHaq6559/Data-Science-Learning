@@ -39,7 +39,7 @@ Data-Science-Learning/
 ### 🔹 Python Programming
 - Core programming concepts
 - Problem-solving with daily assignments
-- Mini projects like ATM Simulator, Contact Book, ToDo App, etc.
+- Mini projects like ATM Simulator, Contact Book, Personal Finance management, Student Grade management, File organizer.
 
 ### 🔹 Statistics
 - Descriptive & inferential statistics
@@ -47,6 +47,33 @@ Data-Science-Learning/
 - Correlation, distributions, and visualizations
 
 
+## 📈 Progress Tracker
+
+| Learning Area      | Status         |
+|--------------------|----------------|
+| Python             | ✅ Completed    |
+| Statistics         | ✅ In Progress  |
+| Machine Learning   | 🔜 Coming Soon  |
+
+---
+
+## 🙌 Acknowledgements
+
+I'm currently learning Data Science with [**DSGuru**](https://dsguru.ai) — an excellent platform for guided, structured, and hands-on learning.
+
+This repo is built with the support of open-source materials, instructors, and real-world practice challenges.
+
+---
+
+## 🌟 Connect & Collaborate
+
+Feel free to:
+
+- ⭐ Star this repository  
+- 🍴 Fork it and build upon it  
+- 🧠 Use it as a reference for your own learning
+
+> “Learning never exhausts the mind.” – *Leonardo da Vinci*
 
 
 ---
