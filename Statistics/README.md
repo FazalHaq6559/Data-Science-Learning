@@ -10,6 +10,7 @@ The content is structured to help beginners understand the key concepts of stati
 ## 📁 Folder Structure
 
 ├── assignments/ # Concept-based exercises and practice problems
+
 └── projects/ # Real-world inspired mini-projects using statistical methods
 
 ### 🔹 `assignments/`
