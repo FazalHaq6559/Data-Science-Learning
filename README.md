@@ -1,84 +1,55 @@
-# 📚 Data Science Learning Journey
+<h1 align="center">📘 DSGuru Learning Journey</h1>
 
-A complete journey through **Python**, **Statistics**, and **Machine Learning** — includes daily assignments, hands-on projects, and structured learning resources from [**DSGuru**](https://www.linkedin.com/company/dsguru/posts/).
-
-This repository is my personal notebook, project hub, and portfolio as I explore and practice key concepts in Data Science.
-
----
-
-## 📂 Repository Structure
-
-```
-Data-Science-Learning/
-│
-├── Python/
-│   ├── Assignments/
-│   │   ├── Day01/
-│   │   ├── Day02/
-│   │   └── ... Day13/
-│   └── Projects/
-│       ├── ATM-Simulator/
-│       ├── Contact-Book/
-│       ├── Marks-Manager/
-│       ├── File-organizer/
-│       └── Finance-management/
-│
-├── Statistics/
-│   ├── Assignments/
-│   ├── Projects/
-│
-└── README.md
-```
-
-## 📌 Learning Tracks
-
-### 🔹 Python Programming
-- Core programming concepts
-- Problem-solving with daily assignments
-- Mini projects like ATM Simulator, Contact Book, Personal Finance management, Student Grade management, File organizer.
-
-### 🔹 Statistics
-- Descriptive & inferential statistics
-- Measures of central tendency and dispersion
-- Correlation, distributions, and visualizations
-
-
-## 📈 Progress Tracker
-
-| Learning Area      | Status         |
-|--------------------|----------------|
-| Python             | ✅ Completed    |
-| Statistics         | ✅ In Progress  |
-| Machine Learning   | 🔜 Coming Soon  |
+<p align="center">
+  <img src="https://img.shields.io/badge/Progress-4%2F17%20Completed-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" />
+</p>
 
 ---
 
-## 🙌 Acknowledgements
-
-I'm currently learning Data Science with [**DSGuru**](https://www.linkedin.com/company/dsguru/posts/) — an excellent platform for guided, structured, and hands-on learning.
-
-This repo is built with the support of open-source materials, instructors, and real-world practice challenges.
-
----
-
-## 🌟 Connect & Collaborate
-
-Feel free to:
-
-- ⭐ Star this repository  
-- 🍴 Fork it and build upon it  
-- 🧠 Use it as a reference for your own learning
-
-
+<p align="center">
+Welcome to my <b>Data Science Learning Repository</b> 🚀  
+This repo documents my step-by-step journey through the <b>DSGuru Roadmap</b>, with notes, assignments, projects, and resources along the way.  
+</p>
 
 ---
 
-## 🚀 How to Use This Repository
+## 🌱 Why this repo?  
 
-1. **Browse folders** based on topics (Python, Statistics, etc.)
-2. Explore **assignments** for concept practice and exercises
-3. Review **projects** for practical implementations
-4. Clone the repo and try out the code on your machine
+I’m learning Data Science with a group called <b>DSGuru</b>.  
+This repo helps me:  
 
-```bash
-git clone https://github.com/FazalHaq6559/Data-Science-Learning.git
+- 📂 Keep everything organized (assignments, notes, resources).  
+- ✅ Track my progress across different topics.  
+- 💼 Build a <b>portfolio-style record</b> of my journey.  
+
+---
+
+## 🗺 Roadmap (Learning Path)  
+
+✔️ = Completed | 🔄 = In Progress | ⏳ = Coming Soon  
+
+1. ✔️ Python  
+2. ✔️ Statistics  
+3. ✔️ Pandas  
+4. 🔄 NumPy  
+5. ⏳ Matplotlib  
+6. ⏳ Seaborn  
+7. ⏳ Plotly  
+8. ⏳ Excel  
+9. ⏳ Power BI / Tableau  
+10. ⏳ SQL  
+11. ⏳ Scikit-learn  
+12. ⏳ Time Series Analysis  
+13. ⏳ TensorFlow  
+14. ⏳ PyTorch  
+15. ⏳ NLP  
+16. ⏳ Cloud  
+17. ⏳ MLOps  
+
+---
+
+## 📂 Repository Structure  
+
