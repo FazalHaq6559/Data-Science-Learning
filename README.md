@@ -34,8 +34,8 @@ This repo helps me:
 1. ✔️ Python  
 2. ✔️ Statistics  
 3. ✔️ Pandas  
-4. 🔄 NumPy  
-5. ⏳ Matplotlib  
+4. ✔️ NumPy  
+5. 🔄 Matplotlib  
 6. ⏳ Seaborn  
 7. ⏳ Plotly  
 8. ⏳ Excel  
