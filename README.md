@@ -51,5 +51,3 @@ This repo helps me:
 
 ---
 
-## 📂 Repository Structure  
-
